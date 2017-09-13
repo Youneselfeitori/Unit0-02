@@ -1,0 +1,74 @@
+[
+  {
+    "selected" : false,
+    "frame" : "{{0, 0}, {1024, 768}}",
+    "class" : "View",
+    "nodes" : [
+      {
+        "selected" : true,
+        "frame" : "{{182, 203}, {150, 41}}",
+        "class" : "Label",
+        "nodes" : [
+
+        ],
+        "attributes" : {
+          "border_width" : 0,
+          "font_name" : "<System>",
+          "frame" : "{{437, 368}, {150, 32}}",
+          "uuid" : "91432624-0A09-4E43-9822-AB99A39E9E4C",
+          "class" : "Label",
+          "alignment" : "center",
+          "text" : "Younes Elfeitori",
+          "corner_radius" : 0,
+          "name" : "Address_Label",
+          "font_size" : 20
+        }
+      },
+      {
+        "selected" : false,
+        "frame" : "{{182, 252}, {150, 32}}",
+        "class" : "Label",
+        "nodes" : [
+
+        ],
+        "attributes" : {
+          "font_name" : "<System>",
+          "frame" : "{{437, 368}, {150, 32}}",
+          "uuid" : "EF1FF3C2-8A8D-4A1C-BD90-55F848909F59",
+          "class" : "Label",
+          "alignment" : "center",
+          "text" : "Ottawa",
+          "name" : "label1",
+          "font_size" : 20
+        }
+      },
+      {
+        "selected" : false,
+        "frame" : "{{182, 292}, {150, 33}}",
+        "class" : "Label",
+        "nodes" : [
+
+        ],
+        "attributes" : {
+          "border_width" : 0,
+          "font_name" : "<System>",
+          "frame" : "{{437, 368}, {150, 32}}",
+          "uuid" : "C763CCF7-7F06-42E4-B446-8DD794477668",
+          "class" : "Label",
+          "alignment" : "center",
+          "text" : "Label",
+          "corner_radius" : 0,
+          "name" : "label2",
+          "font_size" : 20
+        }
+      }
+    ],
+    "attributes" : {
+      "enabled" : true,
+      "background_color" : "RGBA(1.000000,1.000000,1.000000,1.000000)",
+      "tint_color" : "RGBA(0.000000,0.478000,1.000000,1.000000)",
+      "border_color" : "RGBA(0.000000,0.000000,0.000000,1.000000)",
+      "flex" : ""
+    }
+  }
+]
