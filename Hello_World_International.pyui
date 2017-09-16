@@ -1,0 +1,122 @@
+[
+  {
+    "selected" : false,
+    "frame" : "{{0, 0}, {1024, 768}}",
+    "class" : "View",
+    "nodes" : [
+      {
+        "selected" : false,
+        "frame" : "{{74, 103}, {80, 48}}",
+        "class" : "Button",
+        "nodes" : [
+
+        ],
+        "attributes" : {
+          "action" : "english_touch_up_inside",
+          "frame" : "{{472, 368}, {80, 32}}",
+          "title" : "English",
+          "uuid" : "BCB49BE6-B26C-4EF7-95FD-D886C95603AA",
+          "font_bold" : false,
+          "class" : "Button",
+          "name" : "English_button",
+          "font_size" : 15
+        }
+      },
+      {
+        "selected" : false,
+        "frame" : "{{223, 106}, {80, 51}}",
+        "class" : "Button",
+        "nodes" : [
+
+        ],
+        "attributes" : {
+          "action" : "french_touch_up_inside",
+          "frame" : "{{472, 368}, {80, 32}}",
+          "title" : "French",
+          "uuid" : "262BFD0F-D647-4F06-AD9D-23066187D96E",
+          "class" : "Button",
+          "name" : "french_button",
+          "font_size" : 15
+        }
+      },
+      {
+        "selected" : false,
+        "frame" : "{{384, 106}, {80, 47}}",
+        "class" : "Button",
+        "nodes" : [
+
+        ],
+        "attributes" : {
+          "action" : "spanish_touch_up_inside",
+          "frame" : "{{472, 368}, {80, 32}}",
+          "title" : "Spanish",
+          "uuid" : "AD56D7A8-059C-4CA1-9FAA-D64B21B694B0",
+          "class" : "Button",
+          "name" : "spanish_button",
+          "font_size" : 15
+        }
+      },
+      {
+        "selected" : false,
+        "frame" : "{{204, 245}, {150, 32}}",
+        "class" : "Label",
+        "nodes" : [
+
+        ],
+        "attributes" : {
+          "font_name" : "<System>",
+          "frame" : "{{437, 368}, {150, 32}}",
+          "uuid" : "C9574C0E-3128-435F-B838-3CDA7860DC39",
+          "class" : "Label",
+          "alignment" : "center",
+          "text" : "",
+          "name" : "Hello_world_label",
+          "font_size" : 18
+        }
+      },
+      {
+        "selected" : false,
+        "frame" : "{{204, 245}, {143, 32}}",
+        "class" : "Label",
+        "nodes" : [
+
+        ],
+        "attributes" : {
+          "font_name" : "<System>",
+          "frame" : "{{437, 368}, {150, 32}}",
+          "uuid" : "129C2D8D-9201-464C-BCA8-28B107BBA34B",
+          "class" : "Label",
+          "alignment" : "left",
+          "text" : "",
+          "name" : "french_label",
+          "font_size" : 18
+        }
+      },
+      {
+        "selected" : false,
+        "frame" : "{{204, 245}, {150, 32}}",
+        "class" : "Label",
+        "nodes" : [
+
+        ],
+        "attributes" : {
+          "font_name" : "<System>",
+          "frame" : "{{437, 368}, {150, 32}}",
+          "uuid" : "4D33730C-CA18-470A-8142-9CB40075B876",
+          "class" : "Label",
+          "alignment" : "center",
+          "text" : "",
+          "name" : "hello_world_label",
+          "font_size" : 18
+        }
+      }
+    ],
+    "attributes" : {
+      "enabled" : true,
+      "background_color" : "RGBA(1.000000,1.000000,1.000000,1.000000)",
+      "tint_color" : "RGBA(0.000000,0.478000,1.000000,1.000000)",
+      "border_color" : "RGBA(0.000000,0.000000,0.000000,1.000000)",
+      "flex" : ""
+    }
+  }
+]
